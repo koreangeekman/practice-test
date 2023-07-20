@@ -31,6 +31,7 @@ While the sections will not change when taking the actual exam the sub-tasks wil
       - adjust the padding of this element to `1rem`
       - change the background color to `#1d2531`
     - Example output  ![example](example.jpg)
+
 2. **Creating and using variables in JavaScript**
     - Create a variable called `currentYear` and set its value to the current year
     - Create another variable called `jsReleaseYear` and set its value to `1995`
@@ -39,16 +40,19 @@ While the sections will not change when taking the actual exam the sub-tasks wil
       - When true = `JavaScript is old enough to vote`
       - When false = `JavaScript is not old enough to vote`
       - *change the value of `ageToVote` to 100 to ensure both messages will log*
+
 3. **Creating and using Loops in JavaScript**
     - Write a for i loop that will log the numbers 0-100 (*include 0 and 100*)
     - Modify the loop to log only multiples of 10
     - Log the word `Starting` before the loop runs
     - Use a conditional to log the message `Halfway` when the loop hits the number `50`
     - Log the word `Finished` when the loop concludes
+
 4. **Accessing properties on an object in JavaScript**
     - Use the provided `user` object and dot notation
       - log the message `Sherlock Holmes lives at 221B Baker Street, London`
       - ***HINT:*** [Variable Substitution String Interpolation](https://www.w3schools.com/js/js_string_templates.asp)
+      
 5. **Working with an array of objects in JavaScript**
     - Iterate over the `cases` array and log the title and release year of each story
     - Iterate over the `cases` array and log only the title of cases released in the year `1903`

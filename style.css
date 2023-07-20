@@ -1,1 +1,9 @@
 /* YOUR STYLES HERE */
+
+h6{
+  color: #ffdb6d;
+  text-align: center;
+  border: 3px solid #ffdb6d;
+  padding: 1rem;
+  background-color: #1d2531;
+}
